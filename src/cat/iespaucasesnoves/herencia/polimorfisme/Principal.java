@@ -24,7 +24,7 @@ public class Principal {
         Net net1 = new Net();
         Principal o = new Principal();
         o.objectePare(net1);
-        
+        System.out.println("Hola, això és una prova de git :D");
         
     }
 }
